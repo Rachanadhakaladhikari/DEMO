@@ -6,7 +6,7 @@ public class Switch {
 		//switch without break
 		int day=5;
 		switch(day){
-		case 1:
+		case''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''' 1:
 			System.out.println("The day is Sunday");
 		case 2:
 			System.out.println("The day is Monday");

@@ -25,15 +25,15 @@ public class Condistment {
 			System.out.println("No discount");
 		}
 		
-		if(numT<=25 && numT>=50) {
+		if(numT>=26 && numT<=50) {
 			System.out.println("10% discount");
 		}
 		
-			if(numT>=51 && numT>=75) {
+			if(numT>=51 && numT<=75) {
 				System.out.println("20% discount");
 			}
 		
-		    if(numT>=75 && numT>=100) {
+		    if(numT>=76 && numT<=100) {
 				System.out.println("30% discount");
 		    }
 		/*NOTES
@@ -92,7 +92,15 @@ public class Condistment {
 					System.out.println("Bis greater");
 			}
 		    
+		    int num= 90;
+		    if(num>=90) {
+		    	System.out.println("Grade A");
+		    }if(num<=80){
+		    	System.out.println("Grade B");
+		    }if(num<=70) {
+		    	System.out.println("Grade c");
 		    
+		    }
 		    
 }
 }

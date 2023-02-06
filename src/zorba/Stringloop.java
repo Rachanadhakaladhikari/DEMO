@@ -2,7 +2,7 @@ package zorba;
 
 public class Stringloop {
 
-	public static void main(String[] args) {
+	public static void  (String[] args) {
 		// TODO Auto-generated method stub
 		String name = "Rachana";
 		for (int i = 0; i < name.length(); i++) {
